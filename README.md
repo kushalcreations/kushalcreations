@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://kushalcreations.github.io/logo%20copy.png">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/app-development-concept-with-desktop_23-2148700922.jpg?semt=ais_items_boosted&w=740">
 
 # 💫 About Me:
 🔭 I'm currently working on **React & Next.js** projects<br>
